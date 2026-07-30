@@ -28,7 +28,7 @@ If updating from an older build, do a full reflash rather than an incremental up
 
 | App | Needs |
 |---|---|
-| Games | `.nes`/`.gb`/`.gbc` need `PaperEMU.extension` (or `EmulatorV3.4.extension` from AdvanceOS-for-cardputer) + ROMs in `/PaperOS/games/`. `.ard` (Arduboy) games only require the ROM in `/PaperOS/games/` |
+| Games | `.nes`/`.gb`/`.gbc` need `PaperEMU.extension` (or `EmulatorV3.4.extension`) + ROMs in `/PaperOS/games/`. `.ard` (Arduboy) games only require the ROM in `/PaperOS/games/` |
 | Store | Needs Wi-Fi. Installs apps directly to `/lua/` |
 | myAI | Requires `model.bin` in `/PaperOS/` |
 | Music | Opens `.wav`/`.mp3` files from any folder on the SD card |
